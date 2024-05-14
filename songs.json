@@ -1,0 +1,33 @@
+[
+    {
+        "songName" : "Dewa Duwaniya",
+        "songLink" : "Dewa Duwaniya.html",
+        "image" : "Images/Dewa Duwaniya.jpg",
+        "artist" : "Savish Senavirathna"
+    },{
+        "songName" : "Lihiniye",
+        "songLink" : "lihiniye.html",
+        "image" : "Images/Lihiniye.jpg",
+        "artist" : "Ishara Diloshan"
+    },{
+        "songName" : "Awara Malwara",
+        "songLink" : "awara mal wara.html",
+        "image" : "Images/Awara Malwara.jpg",
+        "artist" : "Savish Senavirathna"
+    },{
+        "songName" : "Athak Ganin Ath Noganin",
+        "songLink" : "athak ganin.html",
+        "image" : "Images/Athak Ganin.jpg",
+        "artist" : "Ishara Diloshan"
+    },{
+        "songName" : "Adare Tharamma Yashodara",
+        "songLink" : "yashodara.html",
+        "image" : "Images/Yashodhara.jpg",
+        "artist" : "Savish Senavirathna"
+    },{
+        "songName" : "Mandarama",
+        "songLink" : "mandarama.html",
+        "image" : "Images/Mandarama 2323.jpg",
+        "artist" : "Ishara Diloshan"
+    }
+]
